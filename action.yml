@@ -1,0 +1,9 @@
+name: 'Dummy Action 1234'
+description: 'Dummy Action'
+author: 'SP'
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: gift
+  color: red
